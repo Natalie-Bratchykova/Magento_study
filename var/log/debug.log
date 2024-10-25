@@ -4804,3 +4804,8 @@
 [2024-10-25T14:54:54.698955+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
 [2024-10-25T14:55:54.740609+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
 [2024-10-25T14:55:54.740951+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-25T15:12:04.925229+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-25T15:12:16.866580+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-25T15:12:19.558070+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-25T15:12:19.558825+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-25T15:12:19.558985+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
