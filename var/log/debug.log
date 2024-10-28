@@ -8884,3 +8884,1154 @@ Couldn't find end of Start Tag move line 26
 [2024-10-28T17:36:04.279713+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
 [2024-10-28T17:36:04.279921+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
 [2024-10-28T17:36:04.280076+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:10.262421+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:10.262737+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:10.262906+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:26.643558+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:26.643811+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:26.644438+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:49.923916+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:49.924233+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:49.924458+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:44:28.597124+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:44:28.597987+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:44:28.644104+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:44:28.644572+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:46:54.369925+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.462940+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.470795+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.471437+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.472014+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.472625+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.473185+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.473806+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.474425+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.474883+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.475386+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.475850+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.476329+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.476893+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.477405+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:54.477941+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T17:46:59.279198+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T17:47:01.617705+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:47:01.618146+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:47:01.854030+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:47:01.854335+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:47:17.039931+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.138469+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.147923+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.148575+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.149317+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.149964+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.150579+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.151071+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.151685+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.152188+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.152640+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.153081+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.153517+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.154187+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.154692+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:17.155204+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T17:47:21.375418+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T17:56:36.177444+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:56:36.177826+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:56:36.208603+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:56:36.210082+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:59:36.626304+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.767842+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.775459+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.776058+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.776670+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.777303+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.777883+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.778369+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.778924+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.779374+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.779823+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.780268+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.780714+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.781266+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.781703+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:36.782554+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T17:59:45.849686+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T17:59:47.984341+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'arguments': This element is not expected.
+Line: 890
+The xml was: 
+885:   </referenceContainer>
+886:   <referenceContainer name="form.additional.info">
+887:      <block class="Magento\Framework\View\Element\Template" name="form_additional_info_customer" template="Magento_Customer::additionalinfocustomer.phtml"/>
+888:   </referenceContainer>
+889:   <referenceContainer name="sidebar.additional">
+890:      <arguments>
+891:         <argument name="SidebarText" xsi:type="string">This is text that should appear</argument>
+892:      </arguments>
+893:   </referenceContainer>
+894:</body>
+ [] []
+[2024-10-28T17:59:47.985360+00:00] main.ERROR: Element 'arguments': This element is not expected.
+Line: 890
+The xml was: 
+885:   </referenceContainer>
+886:   <referenceContainer name="form.additional.info">
+887:      <block class="Magento\Framework\View\Element\Template" name="form_additional_info_customer" template="Magento_Customer::additionalinfocustomer.phtml"/>
+888:   </referenceContainer>
+889:   <referenceContainer name="sidebar.additional">
+890:      <arguments>
+891:         <argument name="SidebarText" xsi:type="string">This is text that should appear</argument>
+892:      </arguments>
+893:   </referenceContainer>
+894:</body>
+ [] []
+[2024-10-28T18:01:30.173776+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.262794+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.269977+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.270558+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.271080+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.271597+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.272109+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.272548+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.273101+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.273580+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.274018+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.274510+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.274999+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.275543+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.275971+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:30.276463+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:01:42.448177+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:01:44.928444+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:44.928860+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:45.272352+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:01:45.272665+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:01:58.242524+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:58.242796+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:58.306721+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:01:58.307101+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:02:40.850539+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.945373+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.952787+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.953740+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.954591+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.955167+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.955745+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.956216+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.956792+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.957272+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.958044+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.958826+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.959364+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.959961+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.960444+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:40.961158+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:02:44.947518+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:02:46.607038+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: page line 8 and body
+ Line: 44
+Extra content at the end of the document
+ Line: 45 [] []
+[2024-10-28T18:02:46.607376+00:00] main.ERROR: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: page line 8 and body
+ Line: 44
+Extra content at the end of the document
+ Line: 45 [] []
+[2024-10-28T18:03:07.449664+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.537716+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.546894+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.547502+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.548040+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.548574+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.549100+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.549546+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.550081+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.550538+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.550980+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.551424+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.551867+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.552411+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.552857+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:07.553367+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:03:13.585487+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:03:15.895910+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:03:15.896312+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:03:16.226397+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:03:16.226738+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:04:45.580645+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.671971+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.680403+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.681045+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.681636+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.682238+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.682774+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.683299+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.683936+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.684495+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.684989+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.685486+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.685984+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.686689+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.687353+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:45.687933+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:04:51.010374+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:37:40.924397+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:37:40.924385+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:37:40.925941+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:37:40.925954+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:47:41.227399+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:47:41.227410+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:47:41.229074+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:47:41.229067+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:50:53.692559+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.823653+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.831978+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.832582+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.833093+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.833668+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.834281+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.834753+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.835284+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.835713+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.836158+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.836585+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.837012+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.837542+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.837974+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:53.838472+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:50:59.064769+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:51:01.194003+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'remove': This element is not expected. Expected is one of ( attribute, block, referenceBlock, referenceContainer, container, move, uiComponent ).
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">This is text that should appear</argument>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <remove src="catalog.compare.sidebar"/>
+873:</body>
+874:</handle></layout>
+875:
+ [] []
+[2024-10-28T18:51:01.194816+00:00] main.ERROR: Element 'remove': This element is not expected. Expected is one of ( attribute, block, referenceBlock, referenceContainer, container, move, uiComponent ).
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">This is text that should appear</argument>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <remove src="catalog.compare.sidebar"/>
+873:</body>
+874:</handle></layout>
+875:
+ [] []
+[2024-10-28T18:53:11.105649+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.198198+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.207316+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.207963+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.208534+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.209159+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.209782+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.210479+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.211143+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.211763+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.212288+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.212805+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.213334+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.213949+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.214467+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:11.215010+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:53:18.878631+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:53:37.036389+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:53:37.036775+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:53:37.103425+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:53:37.103736+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:56:30.677557+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.767949+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.776545+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.777235+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.777909+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.778527+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.779129+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.779610+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.780323+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.781055+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.781691+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.782418+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.782983+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.783661+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.784141+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:30.784804+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T18:56:35.416449+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T18:56:37.852843+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:56:37.853231+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:56:38.038400+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:56:38.038774+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:59:56.724940+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.811898+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.819454+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.820215+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.820945+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.821562+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.822197+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.822737+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.823286+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.823831+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.824277+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.824747+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.825222+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.825870+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.826343+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T18:59:56.826962+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:00:02.383098+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:00:04.560965+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 873
+The xml was: 
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 874
+The xml was: 
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 875
+The xml was: 
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 876
+The xml was: 
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 877
+The xml was: 
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 878
+The xml was: 
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+882:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:00:04.561388+00:00] main.ERROR: Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 873
+The xml was: 
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 874
+The xml was: 
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 875
+The xml was: 
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 876
+The xml was: 
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 877
+The xml was: 
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 878
+The xml was: 
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+882:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:01:43.174081+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.265297+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.274385+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.275024+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.275553+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.276072+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.276634+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.277091+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.277776+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.278248+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.278701+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.279224+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.279982+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.280574+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.281014+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:43.281520+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:01:50.217912+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:01:51.792757+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:01:51.792958+00:00] main.ERROR: Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:02:21.080682+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.170699+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.179455+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.180112+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.180694+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.181217+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.181808+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.182242+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.182774+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.183227+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.183702+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.184199+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.184703+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.185262+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.185756+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:21.186278+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:27.111276+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:02:28.787520+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: br line 26 and argument
+ Line: 27
+Opening and ending tag mismatch: br line 26 and arguments
+ Line: 28
+Opening and ending tag mismatch: br line 25 and block
+ Line: 29
+Opening and ending tag mismatch: br line 24 and referenceContainer
+ Line: 30
+Opening and ending tag mismatch: br line 23 and body
+ Line: 36
+Opening and ending tag mismatch: br line 22 and page
+ Line: 37
+Premature end of data in tag br line 21
+ Line: 38 [] []
+[2024-10-28T19:02:28.787829+00:00] main.ERROR: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: br line 26 and argument
+ Line: 27
+Opening and ending tag mismatch: br line 26 and arguments
+ Line: 28
+Opening and ending tag mismatch: br line 25 and block
+ Line: 29
+Opening and ending tag mismatch: br line 24 and referenceContainer
+ Line: 30
+Opening and ending tag mismatch: br line 23 and body
+ Line: 36
+Opening and ending tag mismatch: br line 22 and page
+ Line: 37
+Premature end of data in tag br line 21
+ Line: 38 [] []
+[2024-10-28T19:02:52.471946+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.567207+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.575222+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.576054+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.576698+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.577432+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.578008+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.578501+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.579072+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.579564+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.580020+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.580506+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.580956+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.581549+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.582007+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:02:52.582530+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:03:00.676146+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:03:02.310081+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:03:02.310271+00:00] main.ERROR: Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:04:57.619891+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.710111+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.717438+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.718058+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.718676+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.719231+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.719768+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.720220+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.720762+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.721211+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.721658+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.722110+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.722554+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.723271+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.723740+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:04:57.724265+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:05:03.115296+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:06:59.417602+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.512704+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.521289+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.521929+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.522569+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.523189+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.523820+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.524284+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.524875+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.525369+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.525890+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.526349+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.526794+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.527347+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.527805+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:06:59.528317+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:07:04.913958+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:08:48.249252+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.341905+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.349226+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.350219+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.351114+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.352057+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.352736+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.353210+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.353792+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.354253+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.354716+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.355174+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.355637+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.356219+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.356693+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:48.357262+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:08:53.854472+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:08:55.519841+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+876:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:08:55.520136+00:00] main.ERROR: Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+876:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:09:36.316974+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.416871+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.427524+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.428211+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.428822+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.429444+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.429996+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.430530+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.431088+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.431615+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.432114+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.432636+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.433150+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.433811+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.434339+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:36.435019+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:09:41.941206+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:26:44.894352+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.983090+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.991105+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.991717+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.992259+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.992798+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.994055+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.994576+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.995285+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.995773+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.996227+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.996664+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.997090+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.997623+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.998055+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:44.998992+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:26:51.251743+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:26:52.892737+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'argument', attribute '{http://www.w3.org/2001/XMLSchema-instance}type': 'Magento_Customer::registration_text.phtml' is not a valid value of the atomic type 'xs:QName'.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Element 'argument': The type definition is abstract.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Internal error: xmlSchemaXPathProcessHistory, The state object to be removed is not the first in the list.
+Line: 866
+The xml was: 
+861:<head>
+862:   <title>Create New Customer Account</title>
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+
+Internal error: xmlSchemaValidateChildElem, calling xmlRegExecPushString2().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaValidateElem, calling xmlSchemaStreamValidateChildElement().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaDocWalk, calling xmlSchemaValidateElem().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+ [] []
+[2024-10-28T19:26:52.892947+00:00] main.ERROR: Element 'argument', attribute '{http://www.w3.org/2001/XMLSchema-instance}type': 'Magento_Customer::registration_text.phtml' is not a valid value of the atomic type 'xs:QName'.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Element 'argument': The type definition is abstract.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Internal error: xmlSchemaXPathProcessHistory, The state object to be removed is not the first in the list.
+Line: 866
+The xml was: 
+861:<head>
+862:   <title>Create New Customer Account</title>
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+
+Internal error: xmlSchemaValidateChildElem, calling xmlRegExecPushString2().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaValidateElem, calling xmlSchemaStreamValidateChildElement().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaDocWalk, calling xmlSchemaValidateElem().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+ [] []
+[2024-10-28T19:27:36.955838+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.046612+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.054936+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.055677+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.056297+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.056915+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.057436+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.057874+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.058400+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.058943+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.059423+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.059860+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.060294+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.060830+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.061267+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:37.061766+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:27:41.453087+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:27:43.240471+00:00] main.ERROR: Invalid template file: 'Magento_Customer::registration_text.phtml' in module: '' block's name: 'registration.block.text' [] []
+[2024-10-28T19:29:15.322658+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.415213+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.423557+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.424183+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.424818+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.425472+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.426038+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.426534+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.427075+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.427507+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.427955+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.428485+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.428981+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.429522+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.429967+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:15.430543+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:29:23.863823+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:33:03.480833+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.570272+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.578678+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.579376+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.579976+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.580542+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.581114+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.581569+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.582106+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.582538+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.582968+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.583395+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.583842+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.584445+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.584889+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:03.585394+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:08.185534+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []
+[2024-10-28T19:33:38.580928+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.670769+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.678610+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.679369+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.680012+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.680566+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.681150+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.681626+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.682174+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.682617+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.683062+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.683504+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.683932+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["GRAPHQL_QUERY_RESOLVER_RESULT"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.684458+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.685055+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:38.685874+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-10-28T19:33:43.595276+00:00] main.DEBUG: Source class "\Magento\ServiceProxy\Model" for "Magento\ServiceProxy\Model\Logger" generation does not exist. {"exception":"[object] (RuntimeException(code: 0): Source class \"\\Magento\\ServiceProxy\\Model\" for \"Magento\\ServiceProxy\\Model\\Logger\" generation does not exist. at /var/www/html/vendor/magento/framework/Code/Generator.php:223)"} []

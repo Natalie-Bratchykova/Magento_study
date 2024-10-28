@@ -1467,3 +1467,763 @@ Couldn't find end of Start Tag move line 26
 [2024-10-28T17:36:04.279713+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
 [2024-10-28T17:36:04.279921+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
 [2024-10-28T17:36:04.280076+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:10.262421+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:10.262737+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:10.262906+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:26.643558+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:26.643811+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:26.644438+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:49.923916+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:49.924233+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:41:49.924458+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:44:28.597124+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:44:28.597987+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:44:28.644104+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:44:28.644572+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:47:01.617705+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:47:01.618146+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:47:01.854030+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:47:01.854335+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:56:36.177444+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:56:36.177826+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:56:36.208603+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:56:36.210082+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T17:59:47.984341+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'arguments': This element is not expected.
+Line: 890
+The xml was: 
+885:   </referenceContainer>
+886:   <referenceContainer name="form.additional.info">
+887:      <block class="Magento\Framework\View\Element\Template" name="form_additional_info_customer" template="Magento_Customer::additionalinfocustomer.phtml"/>
+888:   </referenceContainer>
+889:   <referenceContainer name="sidebar.additional">
+890:      <arguments>
+891:         <argument name="SidebarText" xsi:type="string">This is text that should appear</argument>
+892:      </arguments>
+893:   </referenceContainer>
+894:</body>
+ [] []
+[2024-10-28T17:59:47.985360+00:00] main.ERROR: Element 'arguments': This element is not expected.
+Line: 890
+The xml was: 
+885:   </referenceContainer>
+886:   <referenceContainer name="form.additional.info">
+887:      <block class="Magento\Framework\View\Element\Template" name="form_additional_info_customer" template="Magento_Customer::additionalinfocustomer.phtml"/>
+888:   </referenceContainer>
+889:   <referenceContainer name="sidebar.additional">
+890:      <arguments>
+891:         <argument name="SidebarText" xsi:type="string">This is text that should appear</argument>
+892:      </arguments>
+893:   </referenceContainer>
+894:</body>
+ [] []
+[2024-10-28T18:01:44.928444+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:44.928860+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:45.272352+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:01:45.272665+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:01:58.242524+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:58.242796+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:01:58.306721+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:01:58.307101+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:02:46.607038+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: page line 8 and body
+ Line: 44
+Extra content at the end of the document
+ Line: 45 [] []
+[2024-10-28T18:02:46.607376+00:00] main.ERROR: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: page line 8 and body
+ Line: 44
+Extra content at the end of the document
+ Line: 45 [] []
+[2024-10-28T18:03:15.895910+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:03:15.896312+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:03:16.226397+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:03:16.226738+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:37:40.924397+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:37:40.924385+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:37:40.925941+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:37:40.925954+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:47:41.227399+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:47:41.227410+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:47:41.229067+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:47:41.229074+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:51:01.194003+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'remove': This element is not expected. Expected is one of ( attribute, block, referenceBlock, referenceContainer, container, move, uiComponent ).
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">This is text that should appear</argument>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <remove src="catalog.compare.sidebar"/>
+873:</body>
+874:</handle></layout>
+875:
+ [] []
+[2024-10-28T18:51:01.194816+00:00] main.ERROR: Element 'remove': This element is not expected. Expected is one of ( attribute, block, referenceBlock, referenceContainer, container, move, uiComponent ).
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">This is text that should appear</argument>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <remove src="catalog.compare.sidebar"/>
+873:</body>
+874:</handle></layout>
+875:
+ [] []
+[2024-10-28T18:53:37.036389+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:53:37.036775+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:53:37.103425+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:53:37.103736+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:56:37.852843+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:56:37.853231+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T18:56:38.038400+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T18:56:38.038774+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/Magento_Customer/js/zxcvbn.js.map' [] []
+[2024-10-28T19:00:04.560965+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 873
+The xml was: 
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 874
+The xml was: 
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 875
+The xml was: 
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 876
+The xml was: 
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 877
+The xml was: 
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 878
+The xml was: 
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+882:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:00:04.561388+00:00] main.ERROR: Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 873
+The xml was: 
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 874
+The xml was: 
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 875
+The xml was: 
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 876
+The xml was: 
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 877
+The xml was: 
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 878
+The xml was: 
+873:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+874:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+875:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+876:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+877:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+878:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; </argument>
+879:         </arguments>
+880:      </block>
+881:   </referenceContainer>
+882:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:01:51.792757+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:01:51.792958+00:00] main.ERROR: Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:02:28.787520+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: br line 26 and argument
+ Line: 27
+Opening and ending tag mismatch: br line 26 and arguments
+ Line: 28
+Opening and ending tag mismatch: br line 25 and block
+ Line: 29
+Opening and ending tag mismatch: br line 24 and referenceContainer
+ Line: 30
+Opening and ending tag mismatch: br line 23 and body
+ Line: 36
+Opening and ending tag mismatch: br line 22 and page
+ Line: 37
+Premature end of data in tag br line 21
+ Line: 38 [] []
+[2024-10-28T19:02:28.787829+00:00] main.ERROR: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Customer/layout/customer_account_create.xml' is not valid.
+Opening and ending tag mismatch: br line 26 and argument
+ Line: 27
+Opening and ending tag mismatch: br line 26 and arguments
+ Line: 28
+Opening and ending tag mismatch: br line 25 and block
+ Line: 29
+Opening and ending tag mismatch: br line 24 and referenceContainer
+ Line: 30
+Opening and ending tag mismatch: br line 23 and body
+ Line: 36
+Opening and ending tag mismatch: br line 22 and page
+ Line: 37
+Premature end of data in tag br line 21
+ Line: 38 [] []
+[2024-10-28T19:03:02.310081+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:03:02.310271+00:00] main.ERROR: Element 'br': This element is not expected. Expected is ( updater ).
+Line: 879
+The xml was: 
+874:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+875:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+876:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+877:                         &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430; 
+878:                        &#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;
+879:               <br/>
+880:               <br/>
+881:               <br/>
+882:               <br/>
+883:               <br/>
+ [] []
+[2024-10-28T19:08:55.519841+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+876:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:08:55.520136+00:00] main.ERROR: Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 869
+The xml was: 
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 870
+The xml was: 
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 871
+The xml was: 
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+
+Element 'argument': Duplicate key-sequence ['text'] in key identity-constraint 'blockArgumentName'.
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+869:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+870:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+871:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+872:            <argument name="text" xsi:type="string">&#x41F;&#x440;&#x430;&#x432;&#x430; &#x442;&#x430; &#x43E;&#x431;&#x43E;&#x432;'&#x44F;&#x437;&#x43A;&#x438; &#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x443;&#x432;&#x430;&#x447;&#x430;</argument>
+873:         </arguments>
+874:      </block>
+875:   </referenceContainer>
+876:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+ [] []
+[2024-10-28T19:26:52.892737+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4dd32ce4e9a4da9f99b408194db562ca2_page_layout_merged and handles default, customer_account_create: Please correct the XML data and try again. Element 'argument', attribute '{http://www.w3.org/2001/XMLSchema-instance}type': 'Magento_Customer::registration_text.phtml' is not a valid value of the atomic type 'xs:QName'.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Element 'argument': The type definition is abstract.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Internal error: xmlSchemaXPathProcessHistory, The state object to be removed is not the first in the list.
+Line: 866
+The xml was: 
+861:<head>
+862:   <title>Create New Customer Account</title>
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+
+Internal error: xmlSchemaValidateChildElem, calling xmlRegExecPushString2().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaValidateElem, calling xmlSchemaStreamValidateChildElement().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaDocWalk, calling xmlSchemaValidateElem().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+ [] []
+[2024-10-28T19:26:52.892947+00:00] main.ERROR: Element 'argument', attribute '{http://www.w3.org/2001/XMLSchema-instance}type': 'Magento_Customer::registration_text.phtml' is not a valid value of the atomic type 'xs:QName'.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Element 'argument': The type definition is abstract.
+Line: 868
+The xml was: 
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+
+Internal error: xmlSchemaXPathProcessHistory, The state object to be removed is not the first in the list.
+Line: 866
+The xml was: 
+861:<head>
+862:   <title>Create New Customer Account</title>
+863:</head>
+864:<body>
+865:   <referenceContainer name="sidebar.additional">
+866:      <block class="Magento\Framework\View\Element\Text" name="registration.block.text">
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+
+Internal error: xmlSchemaValidateChildElem, calling xmlRegExecPushString2().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaValidateElem, calling xmlSchemaStreamValidateChildElement().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+
+Internal error: xmlSchemaDocWalk, calling xmlSchemaValidateElem().
+Line: 872
+The xml was: 
+867:         <arguments>
+868:            <argument name="Magento\Framework\View\Element\Template" xsi:type="Magento_Customer::registration_text.phtml"/>
+869:         </arguments>
+870:      </block>
+871:   </referenceContainer>
+872:   <referenceBlock name="catalog.compare.sidebar" remove="true"/>
+873:   <referenceBlock name="wishlist_sidebar" remove="true">
+874:            
+875:        </referenceBlock>
+876:</body>
+ [] []
+[2024-10-28T19:27:43.240471+00:00] main.ERROR: Invalid template file: 'Magento_Customer::registration_text.phtml' in module: '' block's name: 'registration.block.text' [] []
