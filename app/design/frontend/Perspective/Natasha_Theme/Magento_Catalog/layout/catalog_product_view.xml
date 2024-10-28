@@ -6,9 +6,22 @@
  */
 -->
 <page layout="1column" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+    <css src="Magento_Catalog::css/catalog_product_styles.css"/>
+    </head>
     <body>
         <move element="page.main.title" destination="product.info.main" before="-"/>
-        <move element="product.info.stock.sku" destination="product.info.price" after="product.price.final"/>
-        <move element="product.info.review" destination="product.info.main" before="product.info.price"/>
+        <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+       
+        <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku" before="product.info.options">
+    <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+
+    
+</container>
+<move element="product.price.sku" destination="product.info.price" after="-" />
+<move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder" />
+<move element="product.info.sku" destination="product.price.sku" after="product.price.sku.placeholder" />
+
+        
     </body>
 </page>

@@ -909,3 +909,561 @@ Did you mean one of these?
 [2024-10-28T15:41:37.899596+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
 [2024-10-28T15:42:41.988124+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
 [2024-10-28T15:42:41.988417+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T15:48:28.977351+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:48:28.977632+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:48:28.977854+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:49:11.279956+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:49:11.280146+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:49:11.280296+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:49:47.611649+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:49:47.611838+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T15:49:47.612015+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:11:48.446722+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:11:48.446731+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:11:48.448606+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:11:48.448606+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:16:38.118578+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:16:38.119391+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:16:38.119588+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:16:39.236822+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:16:39.237142+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:16:39.703018+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:16:39.703350+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:17:03.945484+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:17:03.945670+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:17:03.945843+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:17:04.601935+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:17:04.602369+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:17:04.943808+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:17:04.944195+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:34:10.615006+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:34:10.615726+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:34:10.615889+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:34:11.699308+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:34:11.699882+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:34:12.179831+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:34:12.180142+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:35:06.564722+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4c2a753a45f3208a10ac11b8bd4dfc8a2_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09: Please correct the XML data and try again. Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:06.595510+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_48a4803ab90ddca822cf2b3105388a998_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:06.595683+00:00] main.ERROR: Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:17.174355+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4c2a753a45f3208a10ac11b8bd4dfc8a2_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09: Please correct the XML data and try again. Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:17.188374+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_48a4803ab90ddca822cf2b3105388a998_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:17.188545+00:00] main.ERROR: Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:20.459377+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4c2a753a45f3208a10ac11b8bd4dfc8a2_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09: Please correct the XML data and try again. Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:20.472624+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_48a4803ab90ddca822cf2b3105388a998_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:20.472809+00:00] main.ERROR: Element 'move', attribute 'afetr': The attribute 'afetr' is not allowed.
+Line: 1253
+The xml was: 
+1248:   </referenceBlock>
+1249:</body>
+1250:<body>
+1251:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1252:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1253:   <move element="product.info.sku" destination="product.info.price" afetr="product.price.final"/>
+1254:</body>
+1255:<body>
+1256:   <attribute name="class" value="page-product-configurable"/>
+1257:   <referenceBlock name="head.components">
+ [] []
+[2024-10-28T16:35:29.096515+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:35:29.096687+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:35:29.096846+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:35:55.983300+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:35:55.983474+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:35:55.983629+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:37:07.919607+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:37:07.919951+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:37:07.969387+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:37:07.969719+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:37:49.024445+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:37:49.024616+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:37:49.024738+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:37:49.881540+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:37:49.882014+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:37:50.259498+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:37:50.259837+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:39:00.308520+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:39:00.308713+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:39:00.308873+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:39:00.309361+00:00] main.INFO: Broken reference: the 'product.info.sku' tries to reorder itself towards 'product.info.price', but their parents are different: 'product.info.price' and 'product.info.main' respectively. [] []
+[2024-10-28T16:39:01.137264+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:39:01.137605+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:39:01.543017+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:39:01.543422+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:39:47.487889+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:39:47.488073+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:39:47.488229+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:39:47.488757+00:00] main.WARNING: Broken reference: The element with the "product.final.price" ID wasn't found. Verify the ID and try again. [] []
+[2024-10-28T16:39:48.081119+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:39:48.081406+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:39:48.383511+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:39:48.383855+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:40:34.328259+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:40:34.328447+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:40:34.328606+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:40:34.892009+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:40:34.892395+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:40:35.188021+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:40:35.188349+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:41:26.921555+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:41:26.921738+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:41:26.921911+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:42:04.715312+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:42:04.715728+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T16:42:04.757580+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:42:04.757946+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T16:44:26.998225+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:44:26.998405+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:44:26.998575+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:45:26.309281+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:45:26.309470+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:45:26.309607+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:47:05.385405+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:47:05.385586+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:47:05.385741+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:49:22.450469+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:49:22.450642+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:49:22.450804+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:52:06.986291+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:52:06.986478+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:52:06.986638+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:52:06.987027+00:00] main.INFO: Broken reference: the 'product.info.sku' tries to reorder itself towards 'product.info.type', but their parents are different: 'product.price.final' and 'product.info.stock.sku' respectively. [] []
+[2024-10-28T16:52:48.343093+00:00] main.INFO: Broken reference: the 'tracking' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343264+00:00] main.INFO: Broken reference: the 'notification_area' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343341+00:00] main.INFO: Broken reference: the 'unread_system_messages' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343435+00:00] main.INFO: Broken reference: the 'notification_window' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343519+00:00] main.INFO: Broken reference: the 'notification.messages' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343604+00:00] main.INFO: Broken reference: the 'global_notices' element cannot be added as child to 'global.notices', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343689+00:00] main.INFO: Broken reference: the 'logo' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343784+00:00] main.INFO: Broken reference: the 'global.search' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343857+00:00] main.INFO: Broken reference: the 'user' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.343936+00:00] main.INFO: Broken reference: the 'menu' element cannot be added as child to 'page.menu', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344005+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.breadcrumbs', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344073+00:00] main.INFO: Broken reference: the 'formkey' element cannot be added as child to 'page.formkey', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344141+00:00] main.INFO: Broken reference: the 'page.title' element cannot be added as child to 'main.top', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344208+00:00] main.INFO: Broken reference: the 'messages' element cannot be added as child to 'page.messages', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344276+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' element cannot be added as child to 'page.main.actions', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344362+00:00] main.INFO: Broken reference: the 'legal' element cannot be added as child to 'footer', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344470+00:00] main.INFO: Broken reference: the 'header.inner.left' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344542+00:00] main.INFO: Broken reference: the 'header.inner.right' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-10-28T16:52:48.344639+00:00] main.INFO: Broken reference: the 'user' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2024-10-28T16:52:48.344713+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header' and '' respectively. [] []
+[2024-10-28T16:52:48.344785+00:00] main.INFO: Broken reference: the 'logo' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2024-10-28T16:52:48.344853+00:00] main.INFO: Broken reference: the 'global.search' tries to reorder itself towards 'logo', but their parents are different: 'header' and '' respectively. [] []
+[2024-10-28T16:52:48.344928+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' tries to reorder itself towards '', but their parents are different: 'page.main.actions' and '' respectively. [] []
+[2024-10-28T16:52:48.345009+00:00] main.INFO: Broken reference: the 'header.inner.left' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2024-10-28T16:52:48.345100+00:00] main.INFO: Broken reference: the 'header.inner.right' tries to reorder itself towards 'header.inner.left', but their parents are different: 'header' and '' respectively. [] []
+[2024-10-28T16:52:48.345179+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and '' respectively. [] []
+[2024-10-28T16:52:59.916223+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:52:59.916518+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:52:59.916681+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:55:19.093650+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:55:19.093845+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:55:19.093978+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:57:15.717188+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:57:27.845190+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:57:35.512540+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:57:35.949183+00:00] main.ERROR: Unable to resolve the source file for 'adminhtml/Magento/backend/en_US/jquery/fileUploader/jquery.fileupload-ui.js' [] []
+[2024-10-28T16:57:35.949483+00:00] main.CRITICAL: Unable to resolve the source file for 'adminhtml/Magento/backend/en_US/jquery/fileUploader/jquery.fileupload-ui.js' [] []
+[2024-10-28T16:57:42.144294+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:57:50.201900+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:57:53.578584+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:57:58.289536+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:02.021471+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:10.097147+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:12.190392+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:58:12.190664+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:58:12.190795+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:58:34.229046+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:37.304991+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:41.017741+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:43.313890+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:51.343082+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-10-28T16:58:58.867584+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:58:58.867917+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T16:58:58.868104+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:00:45.305929+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:00:45.306195+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:00:45.306410+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:01:55.437643+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:01:55.437822+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:01:55.437981+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:03:34.983627+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:03:34.983810+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:03:34.983998+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:05:49.910830+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:05:49.911332+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:05:49.953853+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:05:49.954175+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:08:49.998304+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:08:49.998493+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:08:49.998657+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:08:50.834626+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:08:50.835019+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:08:51.272142+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:08:51.272638+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:11:47.462519+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:11:47.462702+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:11:47.462883+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:11:47.463338+00:00] main.INFO: Broken reference: the 'product.info.stock.sku' tries to reorder itself towards 'product.info.form.options.wrapper', but their parents are different: 'product.info.form.options' and '' respectively. [] []
+[2024-10-28T17:12:17.610112+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:12:17.610297+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:12:17.610423+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:12:27.493249+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:12:27.493557+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:12:27.526875+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:12:27.527228+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:14:17.057059+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:14:17.057298+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:14:17.057480+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:14:17.832246+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:14:17.832647+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:14:18.302620+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:14:18.303046+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:14:48.667048+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:14:48.667247+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:14:48.667405+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:14:58.448274+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:14:58.448651+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:14:58.495759+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:14:58.496129+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:15:51.359041+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:15:51.359232+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:15:51.359383+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:15:52.231424+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:15:52.231810+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:15:52.647393+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:15:52.647787+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:21:45.376727+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4c2a753a45f3208a10ac11b8bd4dfc8a2_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09: Please correct the XML data and try again. Element 'move': This element is not expected. Expected is one of ( block, container, referenceBlock, referenceContainer, uiComponent ).
+Line: 1257
+The xml was: 
+1252:</head>
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">
+1257:      <move element="product.price.final" destination="product.price.sku" before="-"/>
+1258:      <move element="product.info.sku" destination="product.price.sku" after="-"/>
+1259:   </container>
+1260:</body>
+1261:<body>
+ [] []
+[2024-10-28T17:21:45.391509+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_48a4803ab90ddca822cf2b3105388a998_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'move': This element is not expected. Expected is one of ( block, container, referenceBlock, referenceContainer, uiComponent ).
+Line: 1257
+The xml was: 
+1252:</head>
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">
+1257:      <move element="product.price.final" destination="product.price.sku" before="-"/>
+1258:      <move element="product.info.sku" destination="product.price.sku" after="-"/>
+1259:   </container>
+1260:</body>
+1261:<body>
+ [] []
+[2024-10-28T17:21:45.391704+00:00] main.ERROR: Element 'move': This element is not expected. Expected is one of ( block, container, referenceBlock, referenceContainer, uiComponent ).
+Line: 1257
+The xml was: 
+1252:</head>
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">
+1257:      <move element="product.price.final" destination="product.price.sku" before="-"/>
+1258:      <move element="product.info.sku" destination="product.price.sku" after="-"/>
+1259:   </container>
+1260:</body>
+1261:<body>
+ [] []
+[2024-10-28T17:22:27.689704+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:22:27.689879+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:22:27.690039+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:22:28.459758+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:22:28.460099+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:22:28.873239+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:22:28.873885+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:24:42.701263+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:24:42.701464+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:24:42.701614+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:24:43.353140+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:24:43.353468+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:24:43.647868+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:24:43.648156+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:27:24.880888+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4c2a753a45f3208a10ac11b8bd4dfc8a2_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09: Please correct the XML data and try again. Element 'container': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 1256
+The xml was: 
+1251:   <css src="Magento_Catalog::css/catalog_product_styles.css"/>
+1252:</head>
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">This element will be on the page
+1257:      <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+1258:   </container>
+1259:   <move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder"/>
+1260:   <move element="product.info.sku" destination="product.price.sku" after="product.price.sku.placeholder"/>
+ [] []
+[2024-10-28T17:27:24.894750+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_48a4803ab90ddca822cf2b3105388a998_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'container': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 1256
+The xml was: 
+1251:   <css src="Magento_Catalog::css/catalog_product_styles.css"/>
+1252:</head>
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">This element will be on the page
+1257:      <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+1258:   </container>
+1259:   <move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder"/>
+1260:   <move element="product.info.sku" destination="product.price.sku" after="product.price.sku.placeholder"/>
+ [] []
+[2024-10-28T17:27:24.894925+00:00] main.ERROR: Element 'container': Character content other than whitespace is not allowed because the content type is 'element-only'.
+Line: 1256
+The xml was: 
+1251:   <css src="Magento_Catalog::css/catalog_product_styles.css"/>
+1252:</head>
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">This element will be on the page
+1257:      <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+1258:   </container>
+1259:   <move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder"/>
+1260:   <move element="product.info.sku" destination="product.price.sku" after="product.price.sku.placeholder"/>
+ [] []
+[2024-10-28T17:28:57.182065+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_4c2a753a45f3208a10ac11b8bd4dfc8a2_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09: Please correct the XML data and try again. Element 'arguments': This element is not expected. Expected is one of ( block, container, referenceBlock, referenceContainer, uiComponent ).
+Line: 1258
+The xml was: 
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">
+1257:      <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+1258:      <arguments>
+1259:         <argument name="text" xsi:type="string">This element will be on the page</argument>
+1260:      </arguments>
+1261:   </container>
+1262:   <move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder"/>
+ [] []
+[2024-10-28T17:28:57.195489+00:00] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_48a4803ab90ddca822cf2b3105388a998_page_layout_merged and handles default, catalog_product_view, catalog_product_view_type_configurable, catalog_product_view_id_1812, catalog_product_view_sku_WT09, cms_noroute_index, cms_page_view, cms_noroute_index_id_no-route: Please correct the XML data and try again. Element 'arguments': This element is not expected. Expected is one of ( block, container, referenceBlock, referenceContainer, uiComponent ).
+Line: 1258
+The xml was: 
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">
+1257:      <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+1258:      <arguments>
+1259:         <argument name="text" xsi:type="string">This element will be on the page</argument>
+1260:      </arguments>
+1261:   </container>
+1262:   <move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder"/>
+ [] []
+[2024-10-28T17:28:57.195691+00:00] main.ERROR: Element 'arguments': This element is not expected. Expected is one of ( block, container, referenceBlock, referenceContainer, uiComponent ).
+Line: 1258
+The xml was: 
+1253:<body>
+1254:   <move element="page.main.title" destination="product.info.main" before="-"/>
+1255:   <move element="product.info.stock.sku" destination="product.info.options.wrapper" before="-"/>
+1256:   <container name="product.price.sku" htmlTag="div" htmlClass="price-sku-wrapper" after="product.info.stock.sku">
+1257:      <block class="Magento\Framework\View\Element\Template" name="product.price.sku.placeholder"/>
+1258:      <arguments>
+1259:         <argument name="text" xsi:type="string">This element will be on the page</argument>
+1260:      </arguments>
+1261:   </container>
+1262:   <move element="product.price.final" destination="product.price.sku" before="product.price.sku.placeholder"/>
+ [] []
+[2024-10-28T17:29:29.054354+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:29:29.054554+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:29:29.054708+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:29:29.936764+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:29:29.937342+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:29:30.341868+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:29:30.342183+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:30:26.014796+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:30:26.014983+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:30:26.015110+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:30:37.027174+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:30:37.027488+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:30:37.060913+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:30:37.061272+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:33:19.157612+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:33:19.157801+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:33:19.157959+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:33:19.927445+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:33:19.927969+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:33:20.353678+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:33:20.353993+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:33:48.358708+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26 [] []
+[2024-10-28T17:33:48.367236+00:00] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2024-10-28T17:33:48.402914+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26 [] []
+[2024-10-28T17:33:48.403121+00:00] main.ERROR: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26 [] []
+[2024-10-28T17:33:53.052383+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26 [] []
+[2024-10-28T17:33:53.061397+00:00] main.INFO: Cyclic dependency in merged layout for handle: default [] []
+[2024-10-28T17:33:53.097839+00:00] main.INFO: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26 [] []
+[2024-10-28T17:33:53.098160+00:00] main.ERROR: Theme layout update file '/var/www/html/app/design/frontend/Perspective/Natasha_Theme/Magento_Catalog/layout/catalog_product_view.xml' is not valid.
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26
+attributes construct error
+ Line: 26
+Couldn't find end of Start Tag move line 26
+ Line: 26 [] []
+[2024-10-28T17:34:07.177989+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:34:07.178177+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:34:07.178371+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:34:07.773591+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:34:07.773921+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:34:08.145498+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:34:08.145906+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:35:04.369635+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:35:04.369812+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:35:04.369954+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:35:05.176301+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:35:05.176610+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/underscore-umd.js.map' [] []
+[2024-10-28T17:35:05.585307+00:00] main.ERROR: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:35:05.585651+00:00] main.CRITICAL: Unable to resolve the source file for 'frontend/Perspective/Natasha_Theme/en_US/vimeo/player.js.map' [] []
+[2024-10-28T17:35:41.232635+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:35:41.232815+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:35:41.232958+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:36:04.279713+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:36:04.279921+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-10-28T17:36:04.280076+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []

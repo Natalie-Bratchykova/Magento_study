@@ -1,0 +1,11 @@
+.product-info-price{
+    border-bottom: 1px solid grey;
+}
+.product-info-stock-sku{
+    margin-top: 5%;
+}
+
+.price-sku-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
