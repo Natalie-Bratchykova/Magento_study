@@ -1,0 +1,21 @@
+.cart-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.cart-summary{
+    margin-left: 0;
+    float: left;
+    margin-right: 2rem;
+}
+
+button.checkout{
+    margin-top: 5%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-cart{
+    float: right;
+}
